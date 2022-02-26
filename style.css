@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
 .db.main {
   background-color: #102406;
   font-size: 30px;
+  font-family: 'Redressed', cursive;
 }
 
 .db.main .image-wrapper {
