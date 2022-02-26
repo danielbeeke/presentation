@@ -1,4 +1,4 @@
-@prefix form:                <https://rdf.danielbeeke.nl/form/form-dev.ttl#> .
+@prefix form:                <http://rdf.danielbeeke.nl/form/form-dev.ttl#> .
 @prefix presentationForm:    <https://presentation.danielbeeke.nl/presentation.form.ttl#> .
 @prefix presentation:        <https://presentation.danielbeeke.nl/presentation.ttl#> .
 
