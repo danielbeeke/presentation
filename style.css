@@ -1,3 +1,34 @@
 .db.main {
-  
+  background-color: #102406;
+  font-size: 30px;
+}
+
+.db.main .image-wrapper {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+}
+
+.db.main .image-wrapper img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.db.main .main {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding: 40px;
+  background-color: #102406b6;
+  color: white;
+}
+
+.db.main .footer {
+  margin-top: auto;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
