@@ -14,13 +14,6 @@ presentationForm:title
     form:binding      presentation:title ;
     form:order        2 .
 
-presentationForm:color
-    a                 form:Field ;
-    form:widget       "color" ;
-    form:label        "Color"@en ;
-    form:binding      presentation:color ;
-    form:order        3 .
-
 presentationForm:domain
     a                 form:Field ;
     form:widget       "string" ;
