@@ -3,7 +3,7 @@
     "presentation": "https://presentation.danielbeeke.nl/presentation.ttl#",
     "slide": "https://presentation.danielbeeke.nl/slide.ttl#"
   },
-  "@id": "https://presentation.danielbeeke.nl/example2",
+  "@id": "https://presentation.danielbeeke.nl/example",
   "@type": "presentation:Presentation",
   "presentation:domain": "https://presentation.danielbeeke.nl",
   "presentation:slides": {
